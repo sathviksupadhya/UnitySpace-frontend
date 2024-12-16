@@ -99,7 +99,7 @@ const AdminHome = () => {
             timestamp: new Date(resident.createdAt).toLocaleString()
           })),
           ...eventsResponse.data.map((event) => ({
-            id: `activity-event-${event.id}`,
+            id: `activity-event-${event.userId}-${event.eventDate}`,
             description: `New event created: ${event.eventTitle}`,
             timestamp: new Date(event.eventDate).toLocaleString()
           }))
