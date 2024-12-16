@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import styled from 'styled-components';
-import AdminNavBar from './AdminNavbar';
+import AdminNavBar from './AdminNavBar';
 import { FaSearch, FaFilter, FaEdit, FaTrash, FaUserPlus, FaSortAmountDown, FaChartBar, FaCheck, FaTimes } from 'react-icons/fa';
 import axios from 'axios';
 
