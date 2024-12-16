@@ -4,7 +4,7 @@ import styled from "styled-components";
 import axios from "axios";
 import "../../CSS/cardStyles.css";
 import { FaChevronDown, FaUserCircle } from "react-icons/fa";
-import mainLogo from "../src/assets/mainLogo.jpg" ;
+import mainLogo from "../../assets/mainLogo.jpg";
 import { motion } from 'framer-motion';
 
 const NavBar = () => {
