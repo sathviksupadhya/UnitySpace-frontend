@@ -11,7 +11,7 @@ import {
   FaCommentDots,
 } from "react-icons/fa";
 import axios from "axios";
-import AdminNavBar from "./AdminNavbar";
+import AdminNavBar from "./AdminNavBar";
 import { Line, Bar, Pie, Doughnut } from "react-chartjs-2";
 import {
   Chart as ChartJS,
