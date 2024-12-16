@@ -8,7 +8,7 @@ import NavBar from "./components/Home/NavBar";
 import HomePage from "./components/Home/HomePage";
 import Events from "./components/Home/Events";
 import EventForm from "./components/EventForm";
-import AdminNavBar from "./components/Admin/AdminNavbar";
+import AdminNavBar from "./components/Admin/AdminNavBar";
 import AdminHome from "./components/Admin/AdminHome";
 import UserPage from "./components/Admin/UserPage";
 import AdminEvents from "./components/Admin/AdminEvents";
